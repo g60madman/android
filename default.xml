@@ -48,7 +48,7 @@
 
   <!-- START - TORO DEVICE, KERNEL, VENDOR -->
   <project path="device/samsung/toro" name="vmobi-toro/android_device_samsung_toro" />
-  <project path="device/samsung/tuna" name="android_device_samsung_tuna" />
+  <project path="device/samsung/tuna" name="vmobi-toro/android_device_samsung_tuna" />
   <project path="kernel/samsung/tuna" name="vmobi-toro/android_kernel_samsung_tuna" />
   <project path="vendor/samsung/toro" name="vmobi-toro/proprietary_vendor_samsung_toro" />
   <!-- END - TORO DEVICE, KERNEL, VENDOR -->
