@@ -20,7 +20,9 @@ Building
 
 Once the repo's are synced you will need to get the CyanogenMod prebuilts
 
-    vendor/cm/get-prebuilts
+    cd vendor/cm
+    . get-prebuilts
+    croot
     
 
 To start building you will need to run the following
